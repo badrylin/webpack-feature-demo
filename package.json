@@ -4,7 +4,7 @@
   "description": "webpack feature demo",
   "main": "index.js",
   "scripts": {
-    "start": "webpack-cli"
+    "start": "webpack-dev-server"
   },
   "repository": {
     "type": "git",
