@@ -1,0 +1,26 @@
+{
+  "name": "webpack-feature-demo",
+  "version": "1.0.0",
+  "description": "webpack feature demo",
+  "main": "index.js",
+  "scripts": {
+    "start": "webpack-cli"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/badrylin/webpack-feature-demo.git"
+  },
+  "author": "badrylin",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/badrylin/webpack-feature-demo/issues"
+  },
+  "homepage": "https://github.com/badrylin/webpack-feature-demo#readme",
+  "devDependencies": {
+    "html-webpack-plugin": "^5.3.2",
+    "speed-measure-webpack-plugin": "^1.5.0",
+    "webpack": "^5.52.1",
+    "webpack-cli": "^4.8.0",
+    "webpack-dev-server": "^4.2.0"
+  }
+}
